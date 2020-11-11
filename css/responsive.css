@@ -1,0 +1,184 @@
+ 
+ 
+ @media only screen and (max-width: 1400px){
+
+
+ }
+ @media only screen and (max-width: 1200px){
+
+
+ }
+ @media only screen and (max-width: 991px){
+    .logo {
+    width: 163px;
+    padding: 0;
+    }
+
+    .banner-info {   
+   
+    margin-top: 5rem;
+    margin-bottom: 6rem;
+    }
+
+
+    .feature-section {
+        margin: 0rem 0
+    }
+
+   
+    .feature-image {
+    min-width: 545px;
+    min-height: 680px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 780px;
+     filter: contrast(0.5);
+}
+
+    .feature-text {
+         margin:0;
+        margin-right: 0px;
+    }
+
+    .feature-text ul li {
+    margin-bottom: 0.5rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+     .feature-text ul li {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    }
+
+
+
+}
+
+ 
+ @media only screen and (max-width: 767px){}
+ @media only screen and (max-width: 576px){
+     .feature-text{
+       padding:2rem 0;
+   }
+
+   .editable-card {
+    margin-bottom: 2rem;
+    }
+   
+    .banner-info {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    width: 95%;
+    }
+
+    .banner {    
+    background-position: 28% 26%;
+    }
+    .banner-info h1 {
+    
+    font-size: 1.8rem;
+    line-height: 1.5;
+    }
+
+    .banner-info p {  
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    }
+
+    .description-text p{
+        font-size:1rem;
+    }
+
+    .editable-card-row {
+    display: flex;
+    justify-content: center;
+    }
+
+    .e-card .small-div {
+        margin-top:0;
+        margin-bottom: 0;
+    }
+
+    .e-card p {
+        font-size:1rem;
+    }
+
+    .e-card {
+   
+    margin-bottom: 1.5rem;
+    }
+
+    .e-card img {
+    margin-bottom: 1.5rem;
+    width: 80%;
+    }
+
+   
+
+ }
+ @media only screen and (max-width: 480px){
+   
+   .feature-text{
+       padding:2rem 0;
+   }
+
+   .editable-card {
+    margin-bottom: 2rem;
+    }
+   
+    .banner-info {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    width: 95%;
+    }
+
+    .banner {    
+    background-position: 28% 26%;
+    }
+    .banner-info h1 {
+    
+    font-size: 1.8rem;
+    line-height: 1.5;
+    }
+
+    .banner-info p {  
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    }
+
+    .description-text p{
+        font-size:1rem;
+    }
+
+    .editable-card-row {
+    display: flex;
+    justify-content: center;
+    }
+
+    .e-card .small-div {
+        margin-top:0;
+        margin-bottom: 0;
+    }
+
+    .e-card p {
+        font-size:1rem;
+    }
+
+    .e-card {
+   
+    margin-bottom: 1.5rem;
+    }
+
+    .e-card img {
+    margin-bottom: 1.5rem;
+    width: 80%;
+    }
+
+    
+
+ }
+
+
+ 
